@@ -1,0 +1,104 @@
+
+
+#login{
+	border: 1px solid gray;
+	border-radius: 10px;
+	width: 350px;
+	height: 450px;
+	background-color: white;
+	margin: 0 auto;
+	margin-top: 70px;
+	box-shadow: -10px 8px 8px rgba(71, 45, 38, 1);
+
+}
+
+
+#conteudo{
+	width: 300px;
+	height: 400px;
+	margin: 0 auto;
+	margin-top: 30px;
+
+}
+
+
+
+h4,p{
+	color:#8e53e9;
+}
+
+
+#info{
+	margin-top: 50px;
+	width: 300px;
+	height: 200px;
+	padding: 15px;
+}
+
+
+
+input[type=email],[type=password]{
+	 width: 100%;
+	 border: none;
+	 border-bottom: 2px solid  #8e53e9;
+	 padding: 2px;
+	 padding-left: 40px;
+	 background-position: 10px;
+		background-repeat: no-repeat;
+		text-align:  justify;
+
+
+}
+
+#pri{
+		background-image:  url(arroba.png);
+		
+
+}
+
+#key{
+	background-image: url(key.png.png);
+
+}
+
+.borda{
+	border-radius: 50px;
+	background-color:  #8e53e9;
+}
+
+
+
+input.submit{
+	color: #fff;
+	background: linear-gradient(to right,#5f6be5,#7262e9,#8b54e9,#905be0);
+	border: 1px solid gray;
+	padding: 5px 20px;
+	height: 45px;
+	width: 100%;
+	border-radius: 20px;
+
+		}
+
+
+input [type="checkbox"]{
+	color: : #905be0;
+}
+
+#rememberMe{
+	color: #905be0;
+}
+
+span>a{
+	text-decoration: none;
+	color:   #606be9;
+	margin-left: 31.5px;
+}
+
+
+p>a{
+	text-decoration: none;
+	font-size: small;
+	color:  #606be9;
+	float: right;
+	padding: 5px;
+}
